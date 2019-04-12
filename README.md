@@ -1,6 +1,6 @@
 # Possibly-Useful-Links
 
-#http://aikorea.org/awesome-rl
+http://aikorea.org/awesome-rl
 
-#https://jfds.iijournals.com/
+https://jfds.iijournals.com/
 
