@@ -4,3 +4,5 @@ http://aikorea.org/awesome-rl
 
 https://jfds.iijournals.com/
 
+https://ai.google/
+
