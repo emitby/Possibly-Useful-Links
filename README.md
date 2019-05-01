@@ -6,3 +6,4 @@ https://jfds.iijournals.com/
 
 https://ai.google/
 
+https://twitter.com/deepmindai?lang=en
