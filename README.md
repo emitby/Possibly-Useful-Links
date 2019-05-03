@@ -9,3 +9,5 @@ https://ai.google/
 https://twitter.com/deepmindai?lang=en
 
 https://machinelearningmastery.com/
+
+https://hackernoon.com/
