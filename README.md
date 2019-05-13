@@ -13,3 +13,5 @@ https://machinelearningmastery.com/
 https://hackernoon.com/
 
 https://github.com/google/dopamine
+
+https://www.programcreek.com/python/example/82598/sklearn.metrics.auc
