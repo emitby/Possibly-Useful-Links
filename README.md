@@ -17,3 +17,6 @@ https://github.com/google/dopamine
 https://www.programcreek.com/python/example/82598/sklearn.metrics.auc
 
 https://github.com/lytemar/Applied-Machine-Learning-in-Python--University-of-Michigan---Coursera
+
+https://scikit-plot.readthedocs.io/en/stable/
+
