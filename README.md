@@ -22,3 +22,5 @@ https://github.com/lytemar/Applied-Machine-Learning-in-Python--University-of-Mic
 
 https://scikit-plot.readthedocs.io/en/stable/
 
+https://www.deeplearning.ai/
+
