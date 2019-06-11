@@ -27,3 +27,4 @@ https://www.deeplearning.ai/
 
 http://www.kaggle.com
 
+http://archive.ics.uci.edu/ml/index.php
