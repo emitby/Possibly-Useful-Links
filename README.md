@@ -31,6 +31,4 @@ http://archive.ics.uci.edu/ml/index.php
 
 pd.options.display.max_seq_items = 2000
 
-###import edward as ed
-
 https://www.tensorflow.org/community/roadmap
