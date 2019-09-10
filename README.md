@@ -33,4 +33,4 @@ pd.options.display.max_seq_items = 2000
 
 https://www.tensorflow.org/community/roadmap
 
-https://medium.com/@kozyrkov
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=mp_s_a_1_4?keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow&qid=1568138620&s=gateway&sprefix=hands+&sr=8-4
