@@ -1,7 +1,7 @@
 
 # Possibly-Useful-Links
 
-https://github.com/udacity.com/deep-reinforcement-learning
+https://github.com/udacity/deep-reinforcement-learning
 
 https://deepmind.com/
 
