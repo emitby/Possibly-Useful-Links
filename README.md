@@ -5,6 +5,8 @@ https://github.com/udacity/deep-reinforcement-learning
 
 https://deepmind.com/
 
+https://www.tensorflow.org/guide/effective_tf2
+
 http://aikorea.org/awesome-rl
 
 https://jfds.iijournals.com/
