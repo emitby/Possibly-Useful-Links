@@ -1,6 +1,8 @@
 
 # Possibly-Useful-Links
 
+https://machinelearningmastery.com/cross-entropy-for-machine-learning/
+
 https://github.com/udacity/deep-reinforcement-learning
 
 https://deepmind.com/
