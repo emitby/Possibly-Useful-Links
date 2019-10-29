@@ -1,6 +1,8 @@
 
 # Possibly-Useful-Links
 
+https://www.slideshare.net/cover_drive/realworld-derivatives-hedging-with-deep-rl
+
 https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 
 https://github.com/udacity/deep-reinforcement-learning
