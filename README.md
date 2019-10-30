@@ -1,6 +1,8 @@
 
 # Possibly-Useful-Links
 
+http://web.stanford.edu/class/cme241/
+
 https://www.slideshare.net/cover_drive/realworld-derivatives-hedging-with-deep-rl
 
 https://machinelearningmastery.com/cross-entropy-for-machine-learning/
