@@ -3,6 +3,8 @@
 
 http://web.stanford.edu/class/cme241/
 
+https://machinelearningmastery.com/maximum-a-posteriori-estimation/
+
 https://www.slideshare.net/cover_drive/realworld-derivatives-hedging-with-deep-rl
 
 https://machinelearningmastery.com/cross-entropy-for-machine-learning/
