@@ -7,6 +7,8 @@ https://machinelearningmastery.com/maximum-a-posteriori-estimation/
 
 https://www.slideshare.net/cover_drive/realworld-derivatives-hedging-with-deep-rl
 
+https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
+
 https://machinelearningmastery.com/cross-entropy-for-machine-learning/
 
 https://github.com/udacity/deep-reinforcement-learning
